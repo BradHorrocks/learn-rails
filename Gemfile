@@ -9,6 +9,7 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
+gem 'therubyracer', platforms: :ruby
 # learn-rails
 gem 'activerecord-tableless'
 gem 'bootstrap-sass'
